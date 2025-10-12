@@ -56,46 +56,8 @@
 
 ---
 
-### Currently Working On
 
-- Arduino Prototype Making Tutorials
 
----
-
-### Connect with Me
-
-<div align="center">
-
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)-->
-[![Official Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jayfourjavier.com)
-
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)-->
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jfourjavier)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jfourjavier)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sxjrnd)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@jcj4vier)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayfour.custodio.javier@gmail.com)
-
-</div>
----
-
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jayfourjavier&theme=oldie&no-frame=true&margin-w=15&margin-h=15" alt="jayfourjavier" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayfourjavier&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayfourjavier&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayfourjavier" alt="GitHub Streak" />
-</p>
 
 
 
