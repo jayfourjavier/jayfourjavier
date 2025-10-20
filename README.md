@@ -55,9 +55,16 @@
 </div>
 
 ---
+### Arduino Libraries 
+[AD7746 Capacitive to Digital Converter](https://github.com/jayfourjavier/Arduino_AD7746)
+[Simple IO](https://github.com/jayfourjavier/ARDUINO-SIMPLE-IO)
 
-
-
+### Arduino Projects
+1. LoRa
+   - [Arduino Uno + LoRa Module](https://github.com/jayfourjavier/LORA-ARDUINO-UNO-SENSOR-NODE)
+   - [ESP32 + LoRa Module](https://github.com/jayfourjavier/LORA-ESP32-CONTROLLER-NODE)
+2. HC-12
+   - [Morse Code](https://github.com/jayfourjavier/HC12-MORSE-CODE-TRANSCIEVER)
 
 
 
