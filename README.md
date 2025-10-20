@@ -56,8 +56,8 @@
 
 ---
 ### Arduino Libraries 
-[AD7746 Capacitive to Digital Converter](https://github.com/jayfourjavier/Arduino_AD7746)
-[Simple IO](https://github.com/jayfourjavier/ARDUINO-SIMPLE-IO)
+- [AD7746 Capacitive to Digital Converter](https://github.com/jayfourjavier/Arduino_AD7746)
+- [Simple IO](https://github.com/jayfourjavier/ARDUINO-SIMPLE-IO)
 
 ### Arduino Projects
 1. LoRa
