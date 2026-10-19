@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Four Javier</h1>
-<h3 align="center">An engineering research consultant and prototype fabricator since 2023.</h3>
+<h3 align="center">A freelance prototype fabricator since 2023, completing 50+ student prototype projects studying agriculture, engineering & technology related courses.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayfourjavier&label=Profile%20views&color=0e75b6&style=flat" alt="jayfourjavier" />
@@ -11,17 +11,23 @@
 
 - Consistent Top 1 student from Grade 1 to 12  
 - Editor-in-Chief of the school paper in high school  
-- Studied Agriculture & Biosystems Engineering  
+- Studied Agriculture & Biosystems Engineering at [Tarlac Agricultural University](tau.edu.ph)
 - Awarded as the Outstanding Young Farmer for Organic Agriculture in Central Luzon  
-- Featured in various agriculture magazines, TV segments, and radio interviews as a Young Farmer
-- TESDA NC Holder: Organic Agriculture Production (NCII) & Shielded Metal Arc Welding (NCI)
-- Founded a research writing and consultation business for engineering, technology, and agriculture students  
-- Bootstrapped a prototype fabrication business — built 30+ prototype projects and counting
+- Featured in various agriculture magazines, TV segments, and radio interviews as a Young Farmer.
+   1. [Department of Agriculture - Central Luzon](https://rfo3.da.gov.ph/) - Ani at Kita sa Agrikultura ([watch here](https://youtu.be/GLW9Sl_vmag))
+   2. [Department of Agriculture - Central Luzon](https://rfo3.da.gov.ph/) - Ulat Gitnang Luzon Newsletter ([Read here](https://drive.google.com/file/d/1n_NH8X28C6LVWRNF1k2uHzogq0azUO5K/view?usp=sharing))
+   3. [TAU ELIA](https://www.facebook.com/TAUglobal) - Stories of Sustainability ([watch here](https://youtu.be/3xamapn8hfU))
+   4. [DA-PhilMech]() - Anihan Magazine ([Read online article version here](https://www.philmech.gov.ph/resources/anihan-magazine/2022%201st%20Issue.pdf))
+- TESDA NC Holder ([verify here](https://t2mis.tesda.gov.ph/Learners/S/6C004900660055004D004C004200430055006A006A0048004F00380071004E0061006A0034006B00390077003D003D00)):
+  1. Organic Agriculture Production (NCII)
+  2. Shielded Metal Arc Welding (NCI)
+  3. Shielded Metal Arc Welding (NCII)
 - Proud Work from Home Dad - building our home through freelancing and consulting
 
 ---
   
 ### Skills
+
 - Prototype fabrication using Arduino, ESP32, and Raspberry Pi
 - PCB Design, Fabrication, and Assembly  
 - 2D/3D CAD Designer
@@ -55,17 +61,18 @@
 </div>
 
 ---
-### Arduino Libraries 
+
+### Arduino Libraries
+
 - [AD7746 Capacitive to Digital Converter](https://github.com/jayfourjavier/Arduino_AD7746)
 - [Simple IO](https://github.com/jayfourjavier/ARDUINO-SIMPLE-IO)
 
-### Arduino Projects
+### Prototype Fabrication Projects
+
+Here are the preview of some of my projects. Many of them is still under Non-Disclosure Agreement and will be added here in the near future.
+
 1. LoRa
    - [Arduino Uno + LoRa Module](https://github.com/jayfourjavier/LORA-ARDUINO-UNO-SENSOR-NODE)
    - [ESP32 + LoRa Module](https://github.com/jayfourjavier/LORA-ESP32-CONTROLLER-NODE)
 2. HC-12
    - [Morse Code](https://github.com/jayfourjavier/HC12-MORSE-CODE-TRANSCIEVER)
-
-
-
-
