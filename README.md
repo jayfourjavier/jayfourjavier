@@ -71,8 +71,18 @@
 
 Here are the preview of some of my projects. Many of them is still under Non-Disclosure Agreement and will be added here in the near future.
 
-1. LoRa
-   - [Arduino Uno + LoRa Module](https://github.com/jayfourjavier/LORA-ARDUINO-UNO-SENSOR-NODE)
-   - [ESP32 + LoRa Module](https://github.com/jayfourjavier/LORA-ESP32-CONTROLLER-NODE)
-2. HC-12
-   - [Morse Code](https://github.com/jayfourjavier/HC12-MORSE-CODE-TRANSCIEVER)
+- **LoRa IoT Irrigation System**
+
+![LoRa IoT Irrigation System](assets/lora_iot_irrigation_system.png)
+
+An **IoT-based smart irrigation system** that leverages LoRa (Long Range) technology for long-distance, low-power wireless communication to remotely monitor and control irrigation in rice fields. Distributed [sensor nodes](https://github.com/jayfourjavier/LORA-ARDUINO-UNO-SENSOR-NODE) powered by Arduino Uno microcontrollers collect real-time soil moisture, temperature, and humidity data and transmit the readings via LoRa to a [central controller](https://github.com/jayfourjavier/LORA-ESP32-CONTROLLER-NODE) based on the ESP32. The controller processes the collected data to support irrigation decisions and automatically manages the irrigation system according to field conditions, helping improve water-use efficiency and reduce manual intervention.
+
+- **HC-12 Morse Code Transceiver**
+
+![HC-12 Morse Code Transceiver](assets/hc12_morse_code_transceiver.png)
+
+An **Arduino Uno-based wireless Morse code transceiver** that uses HC-12 serial radio modules to transmit and receive Morse code messages wirelessly. The system provides visual and audio feedback through an LED and buzzer, enabling users to send and interpret Morse code signals using light and sound.
+
+The device features a **custom-etched PCB** designed to integrate the electronic components, with a **replaceable Arduino Uno and HC-12 wireless module** for easier maintenance, troubleshooting, and hardware upgrades. A **3D-printed enclosure** houses and protects the electronics, resulting in a compact, modular, and serviceable embedded system.
+
+- [Morse Code Transceiver — Arduino Uno + HC-12](https://github.com/jayfourjavier/HC12-MORSE-CODE-TRANSCIEVER)
