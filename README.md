@@ -115,6 +115,23 @@ The device features a **custom-etched PCB** designed to integrate the electronic
 
 [View Source Code and Documentation](https://github.com/jayfourjavier/HC12-MORSE-CODE-TRANSCIEVER)
 
+### 3. Intelligent Balut Content Detection System
+
+<p align="center">
+  <img
+  src="assets/intelligent_balut_content_detection_system.png"
+  alt="Intelligent Balut Content Detection System"
+  width="400" />
+</p>
+
+An **ESP32-based intelligent detection system** designed to classify and estimate the contents of a balut egg, including soup, egg yolk, embryo, and egg white, using capacitance and weight measurements combined with machine learning.
+
+The system integrates an **AD7746 capacitance-to-digital converter** for high-resolution capacitance measurement and a weight sensor to collect complementary data for classification. The ESP32 processes the sensor readings and applies a machine learning model to identify the egg's internal contents, while a **20×4 I²C LCD** displays the measurement results and predicted classification.
+
+The prototype features a **custom 3D-printed enclosure** that houses the electronics and sensing components, providing a compact and organized design for experimental testing.
+
+**Key components:** ESP32 · AD7746 Capacitance-to-Digital Converter · Weight Sensor · Machine Learning · 20×4 I²C LCD · 3D-Printed Enclosure
+
 ---
 
 <p align="center">
