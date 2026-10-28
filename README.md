@@ -92,7 +92,7 @@ Here are selected examples of my prototype fabrication and engineering projects.
 ### 1. LoRa IoT Irrigation System
 
 <p align="center">
-  <img src="assets/lora_iot_irrigation_system.png" alt="LoRa IoT Irrigation System" width="100%" />
+  <img src="assets/lora_iot_irrigation_system.png" alt="LoRa IoT Irrigation System" width="400" />
 </p>
 
 An **IoT-based smart irrigation system** that leverages LoRa (Long Range) technology for long-distance, low-power wireless communication to remotely monitor and control irrigation in rice fields.
@@ -104,7 +104,7 @@ Distributed [sensor nodes](https://github.com/jayfourjavier/LORA-ARDUINO-UNO-SEN
 ### 2. HC-12 Morse Code Transceiver
 
 <p align="center">
-  <img src="assets/hc12_morse_code_transceiver.png" alt="HC-12 Morse Code Transceiver" width="100%" />
+  <img src="assets/hc12_morse_code_transceiver.png" alt="HC-12 Morse Code Transceiver" width="400" />
 </p>
 
 An **Arduino Uno-based wireless Morse code transceiver** that uses HC-12 serial radio modules to transmit and receive Morse code messages wirelessly. It provides visual and audio feedback through an LED and buzzer, allowing users to send and interpret Morse code signals using light and sound.
